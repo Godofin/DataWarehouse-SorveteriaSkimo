@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Dim_Categoria] (Table)
+       [dbo].[Dim_Cliente] (Table)
+       [dbo].[Dim_ItensPedidos] (Table)
+       [dbo].[Dim_Produto] (Table)
+       [dbo].[Dim_Vendedor] (Table)
+       [dbo].[Fato_Pedidos] (Table)
+
+** Supporting actions

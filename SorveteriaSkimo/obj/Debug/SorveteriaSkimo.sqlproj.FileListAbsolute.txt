@@ -1,0 +1,10 @@
+C:\Users\guilh\ProjetosDW\SorveteriaSkimo\SorveteriaSkimo\bin\Debug\SorveteriaSkimo.dacpac
+C:\Users\guilh\ProjetosDW\SorveteriaSkimo\SorveteriaSkimo\bin\Debug\SorveteriaSkimo.dll
+C:\Users\guilh\ProjetosDW\SorveteriaSkimo\SorveteriaSkimo\bin\Debug\SorveteriaSkimo.pdb
+C:\Users\guilh\ProjetosDW\SorveteriaSkimo\SorveteriaSkimo\obj\Debug\SorveteriaSkimo.sqlproj.AssemblyReference.cache
+C:\Users\guilh\ProjetosDW\SorveteriaSkimo\SorveteriaSkimo\obj\Debug\SorveteriaSkimo.dll
+C:\Users\guilh\ProjetosDW\SorveteriaSkimo\SorveteriaSkimo\obj\Debug\SorveteriaSkimo.pdb
+C:\Users\guilh\ProjetosDW\SorveteriaSkimo\SorveteriaSkimo\obj\Debug\Model.xml
+C:\Users\guilh\ProjetosDW\SorveteriaSkimo\SorveteriaSkimo\obj\Debug\refactor.xml
+C:\Users\guilh\ProjetosDW\SorveteriaSkimo\SorveteriaSkimo\obj\Debug\postdeploy.sql
+C:\Users\guilh\ProjetosDW\SorveteriaSkimo\SorveteriaSkimo\obj\Debug\predeploy.sql
